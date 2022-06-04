@@ -116,6 +116,11 @@ p{
 
 
 @media only screen and (max-width: 575px) {
+	body{
+		overflow-y: unset;
+		margin: 2rem auto;
+	}
+
 	.image-container {
     background-image: url(images/image-header-mobile.jpg);
 		background-size: cover;
