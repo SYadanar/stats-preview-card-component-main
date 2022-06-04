@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [URL here](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-bootstrap-grid-Afqipcj9qh)
+- Live Site URL: [URL here](http://stats-preview-card-component-main-pied.vercel.app)
 
 ## My process
 
@@ -58,7 +58,7 @@ I've learned more about Bootstrap Grid system, discovered about Gutter classes, 
         ...
       </div>
     </div>
-    
+
   </div>
 </div>
 ```
